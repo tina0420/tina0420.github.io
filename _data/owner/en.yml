@@ -2,7 +2,7 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Your Brand"
+brand: "Tina Hsu"
 
 # text below the brand name
 brand_sub_text: "$site_sample"
@@ -42,7 +42,7 @@ creative_commons:
 # seo meta this is needed for each language
 # If meta_description is not defined in front matter, it's created from (post / page) content,
 # if it has no content, this will be used for page description. It is also used in manifest.json
-meta_common_description: "Your meta description."
+meta_common_description: "A data scientist with more than 5 years of experience in business and biology."
 
 # contact options (side nav bottom and about page)
 # the order of the items will be shown as here.
@@ -50,7 +50,7 @@ meta_common_description: "Your meta description."
 contacts:
   #- github: ""
   #- email: ""
-  #- linkedin: ""
+  - linkedin: "https://www.linkedin.com/in/yiting-tina-hsu/"
   #- twitter: ""
   #- mastodon: ""
   #- instagram: ""
